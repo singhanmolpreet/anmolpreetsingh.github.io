@@ -1,6 +1,6 @@
 # Anmolpreet Singh
 
-Student at GNDEC, Ludhiana 
+## About
 
 ## Academic History
 Education Milestone | Institute | Year | Percentage
