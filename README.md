@@ -1,7 +1,7 @@
 # Anmolpreet Singh
 
 ## About
-I am Anmolpreet Singh, a 19 year old dreamer looking to succeed in Technology Industry. I find Computers, Coding and Artificial Intelligence quite fascinating and look to make it a career. 
+I am Anmolpreet Singh, a 19 year old dreamer looking to succeed in Technology Industry. I find Computers, Coding and Artificial Intelligence quite fascinating and looking to make it a career. 
 
 ## Academic History
 
