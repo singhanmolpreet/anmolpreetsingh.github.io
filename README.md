@@ -5,7 +5,7 @@ I am Anmolpreet Singh, a 19 year old dreamer looking to succeed in Technology In
 
 ## Academic History
 
-Education Milestone | Institute | Year | Percentage
+Education Milestones | Institute | Year | Percentage
 ------------ | ------------- | ------------- | -------------
 10th | Akal Galaxy Convent School | 2021 | 95.5
 12th | BCM Arya Model Sr. Sec. School | 2023 | 89.8
