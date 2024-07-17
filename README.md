@@ -29,5 +29,5 @@ B.Tech in Computer Science | Guru Nanak Dev Engineering College | 2024-Present |
 
 Also Read: 
 [My Experience at GNDEC](https://singhanmolpreet.github.io/myexperience/)
-[Link](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
+
 
