@@ -20,6 +20,11 @@ B.Tech in Computer Science | Guru Nanak Dev Engineering College | 2024-Present |
 
 * MySQL: Experienced in Data Storage, Management and Manipulation using SQL.
 
+## Excel Course
+
+
+[Read full experience here](excel.md)
+
 ## Interests: 
 
 * Computers
