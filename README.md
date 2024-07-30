@@ -22,8 +22,9 @@ B.Tech in Computer Science | Guru Nanak Dev Engineering College | 2024-Present |
 
 ## Excel Course
 
-
 [Read full experience here](excel.md)
+
+![](Certificate.png)
 
 ## Interests: 
 
