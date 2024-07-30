@@ -33,7 +33,8 @@ B.Tech in Computer Science | Guru Nanak Dev Engineering College | 2024-Present |
 * Artificial Intelligence
 * Cricket
 
-Also Read: 
+## Also Read: 
+
 [My Experience at GNDEC](https://singhanmolpreet.github.io/myexperience/)
 
-
+[My Excel Course Experience](excel.md)
